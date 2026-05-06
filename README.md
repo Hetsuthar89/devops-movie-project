@@ -21,3 +21,5 @@ This is a simple Python CLI (Command Line Interface) project for managing a movi
 
 ## Author
 Het Suthar
+Dhrumil Barad
+Shrimad Chaudhary
